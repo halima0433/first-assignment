@@ -1,3 +1,5 @@
+
+
 *{
     margin: 0px;
     padding: 0px;
@@ -65,13 +67,63 @@ padding: 15px 0px;
 }
 
 .Our-Featured-Flowers{
-    padding: 50px;
+    padding-top: 80px;
     text-align: center;
 }
 .Our-Featured-Flowers p{
     color: rgb(94, 90, 90);
     margin-top: 10px;
 }
+
+.bunass-images{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding: 50px;
+    
+}
+.bunas-img-1{
+ background-color: #E55473;
+ width: 300px;
+ height: 400px;
+ border-top-left-radius: 150px;
+ border-top-right-radius: 150px;
+}
+.bunas-img-2{
+    background-color:#8ddad5;
+    height: 400px;
+    width: 300px;
+    border-top-left-radius: 150px;
+    border-top-right-radius: 150px;
+}
+.bunas-img-3{
+    height: 400px;
+    width: 300px;
+background-color: darkgray;
+border-top-left-radius: 150px;
+border-top-right-radius: 150px;
+}
+
+.bunas-img-1 img{
+padding-top: 100px;
+width: 100%;
+
+}
+
+.bunas-img-2 img{
+    padding-top: 100px;
+    width: 72%;
+    padding-left: 36px;
+}
+
+.bunas-img-3 img{
+    padding-top: 100px;
+    width: 200px;
+    padding-left: 49px;
+    
+    }
+
+
 .hot-deal{
 display: flex;
 justify-content:space-evenly;
@@ -123,7 +175,7 @@ background-color: #f5e8eb;
 
 .image-section{
  display: flex;
-    height: 250px;
+    height: 300px;
     justify-content: center;
     padding: 5px;
     gap: 40px;
@@ -141,7 +193,7 @@ background-color: #f5e8eb;
     
     background-image: url(image/Rectangle\ 9.png);
     height: 350px;
-    width: 990px;
+    width: 1175px;
     margin: auto;
     padding-top: 10px;
     text-align: center;
@@ -169,8 +221,8 @@ background-color: #f5e8eb;
 
 .all button{
 
-    
-    height: 30px;
+    width: 80px;
+    height: 40px;
     border-radius: 5px;
     background-color: #E55473;
     border-color: #E55473;
@@ -179,9 +231,10 @@ background-color: #f5e8eb;
 
 .all input {
     width: 500px;
-    height: 30px;
+    height: 40px;
     border-radius: 5px;
     border-color: white;
+    padding-left: 10px;
 }
 
 .off {
