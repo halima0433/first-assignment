@@ -1,0 +1,220 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.manu-container{
+    background-image: linear-gradient(-20deg, #00cdac 0%, #8ddad5 100%);;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+.manua{
+
+    display: flex;
+}
+
+
+.logo-photo{
+    width: 80px;
+}
+
+.item{
+    margin-right: 10px;
+    padding: 7px;
+    font-size: 20px;
+}
+
+.banear-container {
+justify-content: space-around;
+align-items: center;
+display: flex;
+height: 484px;
+align-items: center;
+background-color: #f5e8eb;
+}
+
+.banear-container h1{
+    font-size: 50px;
+}
+.baner-text p {
+  color: rgb(119, 115, 115);
+}
+.banear-container button {
+
+    height: 25px;
+    width: 80px;
+    background-color: #E55473;
+    border: #E55473;
+    border-radius: 5px;
+
+}
+
+.banear-container p {
+
+padding: 15px 0px;
+
+}
+
+
+.baner-img{
+    width: 350px;
+    padding-top: 47px;
+    
+}
+
+.Our-Featured-Flowers{
+    padding: 50px;
+    text-align: center;
+}
+.Our-Featured-Flowers p{
+    color: rgb(94, 90, 90);
+    margin-top: 10px;
+}
+.hot-deal{
+display: flex;
+justify-content:space-evenly;
+padding: 17px;
+align-items: center;
+display: flex;
+height: 334px;
+align-items: center;
+background-color: #f5e8eb;
+}
+
+.hot-deal-text{
+    text-align: center;
+}
+
+.hot-deal-text button{
+    height: 25px;
+    width: 80px;
+    background-color: #E55473;
+    border: #E55473;
+    border-radius: 5px;
+}
+
+.hot-deal-text p{
+    padding: 10px 0px;
+}
+.hot-deal-text p{
+    color: rgb(116, 112, 112);
+    padding: 20px;
+}
+
+
+.deal{
+    height: 210px;
+    width: 155px;
+}
+
+.Instagram{
+    padding: 50px;
+    text-align: center;
+}
+
+.Instagram p {
+   
+  color: rgba(119, 116, 116, 0.979);
+  margin-top: 10px;
+
+}
+
+.image-section{
+ display: flex;
+    height: 250px;
+    justify-content: center;
+    padding: 5px;
+    gap: 40px;
+    padding: 5px;
+    
+}
+
+.emailsections{
+
+  margin: 50px;
+
+}
+
+.email-section {
+    
+    background-image: url(image/Rectangle\ 9.png);
+    height: 350px;
+    width: 990px;
+    margin: auto;
+    padding-top: 10px;
+    text-align: center;
+  
+
+    
+        
+    
+}
+.all
+{
+    margin-top: 132px;
+}
+
+.all h1{
+    padding: 0px 80px;
+}
+
+.all p{
+
+    padding: 20px;
+    color: rgb(107, 100, 100);
+
+}
+
+.all button{
+
+    
+    height: 30px;
+    border-radius: 5px;
+    background-color: #E55473;
+    border-color: #E55473;
+
+}
+
+.all input {
+    width: 500px;
+    height: 30px;
+    border-radius: 5px;
+    border-color: white;
+}
+
+.off {
+    color: #E55473;
+}
+
+
+
+.footer{
+    display: flex;
+    justify-content:space-evenly;
+    padding: 17px;
+    align-items: center;
+    display: flex;
+    height: 334px;
+    align-items: center;
+    background-color: #000000;
+    }
+    
+    .footer-text{
+        text-align: center;
+        color: #f5e8eb;
+    }
+
+    .flowerr-shop-p-1{
+        padding: 20px;
+    }
+    
+    .shop {
+     color: #E55473;
+    }
+
+
+    .flowerr-shop-p-2 {
+        color: rgba(172, 166, 166, 0.651);
+    }
